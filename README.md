@@ -1,131 +1,167 @@
-<h1 align="center">Hi 👋, I'm Yashwanth S V</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS Cloud | Kubernetes | CI/CD Automation</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=AWS+Cloud+Engineer;DevOps+Enthusiast;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code+(IaC)" />
-</p>
+# Hi 👋 I'm Yashwanth S V
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashSV-Cloud&label=Profile%20Views&color=7aa2f7&style=flat" />
-</p>
+### ☁️ Aspiring DevOps Engineer • AWS Cloud • Kubernetes • CI/CD Automation
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=AWS+Cloud+Engineer;DevOps+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code+(IaC)" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YashSV-Cloud&label=Profile+Views&color=7aa2f7&style=flat" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
+
+## 🚀 About Me
+
+</div>
 
 ```yaml
 Name: Yashwanth S V
 Role: Aspiring DevOps Engineer
 
-Focus:
+Focus Areas:
   - AWS Cloud Infrastructure
   - CI/CD Automation
   - Kubernetes Orchestration
   - Infrastructure as Code
   - Cloud Native Technologies
 
-Currently Learning:
-  - Advanced Kubernetes
+Currently Exploring:
   - GitOps
+  - Helm
+  - ArgoCD
   - DevSecOps
 ```
 
-- ☁️ Passionate about Cloud & DevOps Engineering
-- 🔧 Building scalable CI/CD automation pipelines
-- 🐳 Working with Docker & Kubernetes
-- 🏗️ Automating infrastructure using Terraform
-- 📊 Monitoring systems with Grafana & Prometheus
-- 🚀 Interested in scalable cloud-native architectures
+<div align="center">
+
+☁️ Passionate about Cloud & DevOps Engineering  
+🔧 Building scalable CI/CD automation pipelines  
+🐳 Working with Docker & Kubernetes  
+🏗️ Automating infrastructure using Terraform  
+📊 Monitoring systems with Grafana & Prometheus  
+🚀 Interested in scalable cloud-native architectures  
+
+</div>
 
 ---
+
+<div align="center">
 
 # 🛠️ Tech Stack
 
-<p align="center">
+</div>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,python,bash,git,grafana,prometheus,ansible,vscode&theme=dark" />
 
-</p>
+</div>
 
 ---
 
-# ⚙️ DevOps Workflow
-
-```mermaid
-graph LR
-A[Developer] --> B[GitHub]
-B --> C[GitHub Actions / Jenkins]
-C --> D[Docker]
-D --> E[Kubernetes]
-E --> F[AWS Cloud]
-F --> G[Grafana & Prometheus]
-```
-
----
+<div align="center">
 
 # 🚀 Featured Projects
 
+</div>
+
 <table>
 <tr>
-
 <td width="50%">
 
-## 🔹 Kubernetes CI/CD Pipeline
+## ☸️ Kubernetes CI/CD Pipeline
 
-### Features
+### ✨ Features
 - Multi-environment deployments
 - GitHub Actions automation
 - Docker containerization
 - Kubernetes namespace isolation
 - AWS EC2 + K3s cluster
 
-### Stack
+### 🧰 Stack
 `Kubernetes` `Docker` `GitHub Actions` `AWS`
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+</div>
 
 </td>
 
 <td width="50%">
 
-## 🔹 Terraform Infrastructure Automation
+## 🏗️ Terraform Infrastructure Automation
 
-### Features
+### ✨ Features
 - Automated VPC provisioning
 - EC2 + ALB setup
 - Infrastructure as Code
 - Scalable AWS environments
 - Secure configuration management
 
-### Stack
+### 🧰 Stack
 `Terraform` `AWS` `IaC`
 
-</td>
+<br>
 
+<div align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+</div>
+
+</td>
 </tr>
 </table>
 
----
+<br>
 
 <table>
 <tr>
-
 <td width="50%">
 
-## 🔹 Jenkins CI/CD Deployment
+## ⚙️ Jenkins CI/CD Deployment
 
-### Features
+### ✨ Features
 - Automated build & deployment
 - Continuous integration workflows
 - Docker image automation
 - AWS deployment orchestration
 
-### Stack
+### 🧰 Stack
 `Jenkins` `Docker` `AWS`
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+</div>
 
 </td>
 
 <td width="50%">
 
-## 🌌 Current Focus
+# 🌌 Current Focus
 
 ```bash
 Learning:
@@ -133,31 +169,38 @@ Learning:
 ┣━━ Helm
 ┣━━ ArgoCD
 ┣━━ DevSecOps
-┗━━ Cloud Native Tools
+┗━━ Cloud Native Ecosystem
 ```
 
 </td>
-
 </tr>
 </table>
 
 ---
 
+<div align="center">
+
 # 🏆 Certifications
 
-<p align="left">
+</div>
 
-✅ AWS Cloud Engineer Trainee  
-✅ Deloitte Cyber Job Simulation  
-✅ Python Internship Certification  
+<div align="center">
 
-</p>
+| Certification | Status |
+|---|---|
+| AWS Cloud Engineer Trainee | ✅ |
+| Deloitte Cyber Job Simulation | ✅ |
+| Python Internship Certification | ✅ |
+
+</div>
 
 ---
 
+<div align="center">
+
 # 🌐 Connect With Me
 
-<p align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/yashwanthsv-lin3/">
   <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -171,11 +214,15 @@ Learning:
   <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7"/>
 </a>
 
-</p>
+</div>
 
 ---
 
+<div align="center">
+
 # 💻 DevOps Philosophy
+
+</div>
 
 ```yaml
 ✔ Automate Everything
@@ -187,22 +234,28 @@ Learning:
 
 ---
 
-# ⚡ Terminal Mode
+<div align="center">
+
+# ⚡ Terminal Preview
+
+</div>
 
 ```bash
-yashwanth@devops:~$ kubectl get pods
+yashwanth@cloud:~$ kubectl get pods
 
-NAME                          STATUS    READY
-ci-cd-pipeline                Running   1/1
-terraform-automation          Running   1/1
-monitoring-stack              Running   1/1
-cloud-infrastructure          Running   1/1
+NAME                           STATUS    READY
+ci-cd-pipeline                 Running   1/1
+terraform-automation           Running   1/1
+monitoring-stack               Running   1/1
+cloud-infrastructure           Running   1/1
 
 System Status: Healthy ✅
 ```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7aa2f7&height=140&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7aa2f7&height=140&section=footer"/>
+
+</div>
