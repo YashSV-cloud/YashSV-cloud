@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring DevOps Engineer | AWS Cloud | Kubernetes | CI/CD Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AWS+Cloud+Engineer;DevOps+Enthusiast;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code+(IaC)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=AWS+Cloud+Engineer;DevOps+Enthusiast;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code+(IaC)" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashSV-Cloud&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YashSV-Cloud&label=Profile%20Views&color=7aa2f7&style=flat" />
 </p>
 
 ---
@@ -16,23 +16,26 @@
 ```yaml
 Name: Yashwanth S V
 Role: Aspiring DevOps Engineer
+
 Focus:
-  - Cloud Infrastructure
+  - AWS Cloud Infrastructure
   - CI/CD Automation
   - Kubernetes Orchestration
   - Infrastructure as Code
-Learning:
+  - Cloud Native Technologies
+
+Currently Learning:
   - Advanced Kubernetes
   - GitOps
-  - Cloud Native Tools
+  - DevSecOps
 ```
 
-- ☁️ Passionate about AWS Cloud & DevOps Engineering
-- 🔧 Experienced in CI/CD Pipeline Automation
+- ☁️ Passionate about Cloud & DevOps Engineering
+- 🔧 Building scalable CI/CD automation pipelines
 - 🐳 Working with Docker & Kubernetes
-- 🏗️ Building scalable infrastructure using Terraform
-- 📊 Monitoring systems using Prometheus & Grafana
-- 🌱 Exploring Cloud Native & DevOps Best Practices
+- 🏗️ Automating infrastructure using Terraform
+- 📊 Monitoring systems with Grafana & Prometheus
+- 🚀 Interested in scalable cloud-native architectures
 
 ---
 
@@ -60,60 +63,83 @@ F --> G[Grafana & Prometheus]
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashSV-Cloud&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<td width="50%">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSV-Cloud&theme=tokyonight&hide_border=true&border_radius=10" />
+## 🔹 Kubernetes CI/CD Pipeline
 
-</p>
+### Features
+- Multi-environment deployments
+- GitHub Actions automation
+- Docker containerization
+- Kubernetes namespace isolation
+- AWS EC2 + K3s cluster
 
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSV-Cloud&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</p>
-
----
-
-# 🏗️ Featured Projects
-
-## 🔹 Multi-Environment CI/CD Pipeline
-
-🚀 Kubernetes namespace isolation  
-🚀 GitHub Actions automation  
-🚀 Dockerized deployments  
-🚀 K3s Cluster on AWS EC2  
-🚀 Secure secrets management  
-
-### Tech Used
+### Stack
 `Kubernetes` `Docker` `GitHub Actions` `AWS`
 
----
+</td>
 
-## 🔹 Automated CI/CD Pipeline for Web Application
-
-⚡ End-to-end Jenkins pipeline  
-⚡ Continuous deployment workflows  
-⚡ Docker containerization  
-⚡ AWS deployment automation  
-
-### Tech Used
-`Jenkins` `Docker` `AWS`
-
----
+<td width="50%">
 
 ## 🔹 Terraform Infrastructure Automation
 
-☁️ AWS Infrastructure Provisioning  
-☁️ VPC + EC2 + Load Balancer Setup  
-☁️ Infrastructure as Code  
-☁️ Scalable cloud environments  
+### Features
+- Automated VPC provisioning
+- EC2 + ALB setup
+- Infrastructure as Code
+- Scalable AWS environments
+- Secure configuration management
 
-### Tech Used
+### Stack
 `Terraform` `AWS` `IaC`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🔹 Jenkins CI/CD Deployment
+
+### Features
+- Automated build & deployment
+- Continuous integration workflows
+- Docker image automation
+- AWS deployment orchestration
+
+### Stack
+`Jenkins` `Docker` `AWS`
+
+</td>
+
+<td width="50%">
+
+## 🌌 Current Focus
+
+```bash
+Learning:
+┣━━ GitOps
+┣━━ Helm
+┣━━ ArgoCD
+┣━━ DevSecOps
+┗━━ Cloud Native Tools
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -124,26 +150,6 @@ F --> G[Grafana & Prometheus]
 ✅ AWS Cloud Engineer Trainee  
 ✅ Deloitte Cyber Job Simulation  
 ✅ Python Internship Certification  
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-[![Yashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashSV-Cloud&theme=tokyo-night&hide_border=true)](https://github.com/YashSV-Cloud)
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YashSV-Cloud&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -173,27 +179,30 @@ F --> G[Grafana & Prometheus]
 
 ```yaml
 ✔ Automate Everything
+✔ Build Reliable Systems
 ✔ Monitor Continuously
-✔ Deploy Reliably
 ✔ Scale Efficiently
 ✔ Learn Constantly
 ```
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Terminal Mode
 
 ```bash
-while(true){
-  learn();
-  build();
-  automate();
-  improve();
-}
+yashwanth@devops:~$ kubectl get pods
+
+NAME                          STATUS    READY
+ci-cd-pipeline                Running   1/1
+terraform-automation          Running   1/1
+monitoring-stack              Running   1/1
+cloud-infrastructure          Running   1/1
+
+System Status: Healthy ✅
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7aa2f7&height=140&section=footer"/>
 </p>
