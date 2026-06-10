@@ -196,9 +196,8 @@ Centralized monitoring stack for container metrics, logs, and alerting dashboard
 
 | 🏅 Credential | 🏢 Issuer | ✅ Status |
 |:---|:---|:---:|
-| AWS Cloud Engineer Trainee | Amazon Web Services | Completed |
 | Cyber Job Simulation | Deloitte | Completed |
-| Python Programming Internship | — | Completed |
+| Python Programming Internship | RankBook Learning & Software Solution Pvt. Ltd | Completed |
 
 </div>
 
